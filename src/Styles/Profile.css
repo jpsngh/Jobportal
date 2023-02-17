@@ -1,0 +1,34 @@
+.profile{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 1rem;
+    background-color: white;
+    color:var(--fontColor);
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 50px;
+ 
+}
+
+.profile:hover{
+    background-color:var(--secondaryColor);
+}
+
+.profile img {
+    width :30px;
+    height: 30px;
+    border-radius:50%;
+
+}
+.profile p {
+    font-size: 12px;
+}
+
+@media screen and (max-width:1000px){
+    .profile p {
+        display: none;
+    }
+    
+}

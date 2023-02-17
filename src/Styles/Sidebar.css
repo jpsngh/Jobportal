@@ -1,0 +1,46 @@
+.sidebar{
+    width:20%;
+    max-width: 20%;
+    height:100%;
+    flex-direction:column;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color: var(--primaryColor);
+    color: white;
+    position: fixed;
+    left: 0;
+}
+
+.logo{
+    letter-spacing: 2;
+    margin-bottom: 80px;
+   
+
+}
+.menu{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.menu .a {
+    display: flex;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+}
+.menu svg {
+    margin-right: 0.5rem;
+}
+.menu a:hover {
+    color:var(--secondaryColor);
+}
+
+
+@media  screen and (max-width:880px) {
+ 
+    .sidebar{
+   display: none;
+    }
+
+}
