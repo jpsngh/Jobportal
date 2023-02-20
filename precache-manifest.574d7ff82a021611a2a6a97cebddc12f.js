@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c8bbbcbf2ce2e5883be1",
+    "revision": "3ab6448c63baea876b75",
     "url": "/Jobportal/static/css/main.4ab9bfc1.chunk.css"
   },
   {
-    "revision": "c8bbbcbf2ce2e5883be1",
-    "url": "/Jobportal/static/js/main.c8bbbcbf.chunk.js"
+    "revision": "3ab6448c63baea876b75",
+    "url": "/Jobportal/static/js/main.3ab6448c.chunk.js"
   },
   {
     "revision": "61bb5379e4781cb5d695",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Jobportal/static/media/profile.17c378ec.jpg"
   },
   {
-    "revision": "c5ba3fc1c8c32d356e631de802c7bdeb",
+    "revision": "dbf13f34d6b50d3ce8e8c84694eb4dd7",
     "url": "/Jobportal/index.html"
   }
 ];
