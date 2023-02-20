@@ -1,14 +1,14 @@
 {
-  "main.css": "/Jpportal/static/css/main.4ab9bfc1.chunk.css",
-  "main.js": "/Jpportal/static/js/main.28b0f28e.chunk.js",
-  "main.js.map": "/Jpportal/static/js/main.28b0f28e.chunk.js.map",
-  "static/js/1.61bb5379.chunk.js": "/Jpportal/static/js/1.61bb5379.chunk.js",
-  "static/js/1.61bb5379.chunk.js.map": "/Jpportal/static/js/1.61bb5379.chunk.js.map",
-  "runtime~main.js": "/Jpportal/static/js/runtime~main.5bacb6d6.js",
-  "runtime~main.js.map": "/Jpportal/static/js/runtime~main.5bacb6d6.js.map",
-  "static/media/profile.jpg": "/Jpportal/static/media/profile.17c378ec.jpg",
-  "static/css/main.4ab9bfc1.chunk.css.map": "/Jpportal/static/css/main.4ab9bfc1.chunk.css.map",
-  "index.html": "/Jpportal/index.html",
-  "precache-manifest.d830ce7b6431153e81705d4c6b46c200.js": "/Jpportal/precache-manifest.d830ce7b6431153e81705d4c6b46c200.js",
-  "service-worker.js": "/Jpportal/service-worker.js"
+  "main.css": "/static/css/main.4ab9bfc1.chunk.css",
+  "main.js": "/static/js/main.c8bbbcbf.chunk.js",
+  "main.js.map": "/static/js/main.c8bbbcbf.chunk.js.map",
+  "static/js/1.61bb5379.chunk.js": "/static/js/1.61bb5379.chunk.js",
+  "static/js/1.61bb5379.chunk.js.map": "/static/js/1.61bb5379.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/profile.jpg": "/static/media/profile.17c378ec.jpg",
+  "static/css/main.4ab9bfc1.chunk.css.map": "/static/css/main.4ab9bfc1.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.8862cf3957c74d1bec5958487a3928c2.js": "/precache-manifest.8862cf3957c74d1bec5958487a3928c2.js",
+  "service-worker.js": "/service-worker.js"
 }
