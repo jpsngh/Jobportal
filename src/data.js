@@ -1,3 +1,5 @@
+import React from "react"
+
 const jobs = [
     {
         image:"https://cutewallpaper.org/cdn-cgi/mirage/879d3f56044898301ccabab4a8a90586cd5663eca603a14193df05b49a03034b/1280/24/google-+-logo-png/colorful-google-logo-design-on-transparent-png-similar-png.png",

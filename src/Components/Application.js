@@ -1,4 +1,4 @@
-
+import React from "react";
 import Layout from "./Layout.js"
 import Sidebar from "./Sidebar"
 import DetailsLayout from './DetailsLayout';
