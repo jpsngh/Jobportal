@@ -1,14 +1,14 @@
 {
-  "main.css": "/github.io/Jobportal/static/css/main.4ab9bfc1.chunk.css",
-  "main.js": "/github.io/Jobportal/static/js/main.c8bbbcbf.chunk.js",
-  "main.js.map": "/github.io/Jobportal/static/js/main.c8bbbcbf.chunk.js.map",
-  "static/js/1.61bb5379.chunk.js": "/github.io/Jobportal/static/js/1.61bb5379.chunk.js",
-  "static/js/1.61bb5379.chunk.js.map": "/github.io/Jobportal/static/js/1.61bb5379.chunk.js.map",
-  "runtime~main.js": "/github.io/Jobportal/static/js/runtime~main.76890e9b.js",
-  "runtime~main.js.map": "/github.io/Jobportal/static/js/runtime~main.76890e9b.js.map",
-  "static/media/profile.jpg": "/github.io/Jobportal/static/media/profile.17c378ec.jpg",
-  "static/css/main.4ab9bfc1.chunk.css.map": "/github.io/Jobportal/static/css/main.4ab9bfc1.chunk.css.map",
-  "index.html": "/github.io/Jobportal/index.html",
-  "precache-manifest.6f1954caf0cfb8d2f6a0e2028b2019f3.js": "/github.io/Jobportal/precache-manifest.6f1954caf0cfb8d2f6a0e2028b2019f3.js",
-  "service-worker.js": "/github.io/Jobportal/service-worker.js"
+  "main.css": "/Jpportal/static/css/main.4ab9bfc1.chunk.css",
+  "main.js": "/Jpportal/static/js/main.c8bbbcbf.chunk.js",
+  "main.js.map": "/Jpportal/static/js/main.c8bbbcbf.chunk.js.map",
+  "static/js/1.61bb5379.chunk.js": "/Jpportal/static/js/1.61bb5379.chunk.js",
+  "static/js/1.61bb5379.chunk.js.map": "/Jpportal/static/js/1.61bb5379.chunk.js.map",
+  "runtime~main.js": "/Jpportal/static/js/runtime~main.5bacb6d6.js",
+  "runtime~main.js.map": "/Jpportal/static/js/runtime~main.5bacb6d6.js.map",
+  "static/media/profile.jpg": "/Jpportal/static/media/profile.17c378ec.jpg",
+  "static/css/main.4ab9bfc1.chunk.css.map": "/Jpportal/static/css/main.4ab9bfc1.chunk.css.map",
+  "index.html": "/Jpportal/index.html",
+  "precache-manifest.6091c5b5bedaa49f2a591b2f7509c096.js": "/Jpportal/precache-manifest.6091c5b5bedaa49f2a591b2f7509c096.js",
+  "service-worker.js": "/Jpportal/service-worker.js"
 }

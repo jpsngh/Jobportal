@@ -1,7 +1,7 @@
 {
   "name": "portal",
   "version": "0.1.0",
-  "homepage":"https://jpsngh/github.io/Jobportal",
+  "homepage":"https://jpsngh.github.io/Jpportal",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",

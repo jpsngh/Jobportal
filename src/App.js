@@ -37,8 +37,8 @@ function App() {
      <BrowserRouter>
 
      <Routes>
-      <Route path='/' element={<Application></Application>}/>
-      <Route path='/advertising' element={<Advertising></Advertising>}/>
+      <Route path='/Jobportal' element={<Application></Application>}/>
+      <Route path='/Jobportal/advertising' element={<Advertising></Advertising>}/>
       
      </Routes>
 
