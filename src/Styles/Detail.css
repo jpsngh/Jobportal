@@ -13,6 +13,7 @@
 
 .detail-close{
     display:none;
+    
 }
 .detail-header{
     display: flex;
@@ -64,12 +65,31 @@ a{
     box-shadow: rgba(0,0,0,2.4)0px,3px,8px;
 }
 
+
+
 @media  screen and (max-width:700px) {
  
     
     .detail{
       display: none;
     }
+   
 
 
+}
+@media  screen and (min-width:700px) {
+ 
+    
+    .detail{
+      display: block;
+    }
+   
+
+
+}
+@media (max-width:100%){
+    .detail-close{
+        display:flex;
+        
+    }
 }

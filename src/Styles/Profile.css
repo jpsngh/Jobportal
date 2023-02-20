@@ -30,5 +30,13 @@
     .profile p {
         display: none;
     }
+  
+    
+}
+@media screen and (max-width:880px){
+    .profile  {
+        display: none;
+
+    }
     
 }

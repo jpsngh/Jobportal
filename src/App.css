@@ -6,6 +6,7 @@
   --primaryColor:#4c50d3;
   --secondaryColor:yellow;
   --fontColor:black;
+  --display:block;
 
 
 }
@@ -24,14 +25,5 @@ body {
   
 }
 
-@media  screen and (max-width:700px) {
- 
-  .sidebar{
- display: none;
-  }
-  .details{
-    display: none;
-  }
 
-}
 

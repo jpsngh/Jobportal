@@ -2,7 +2,7 @@
     width:calc(100%-20%-25%);
     min-height:100%;
     min-width: 300px;
-    height: max-content;
+    height: 1000px;
     display: flex;
     flex-direction: column;
     padding: 2rem 2%;
@@ -35,7 +35,7 @@
     border: none;
     background-color: white;
     border-radius: 10px;
-    position: relative;
+    position:relative;
     padding: 0.5rem 1rem;
     gap:1rem;
 
@@ -78,6 +78,7 @@
         width: calc(100%-40%);
         margin-left: 0;
         margin-right:30%;
+     
       }
 
 }
@@ -96,6 +97,7 @@
     .main{
      width:100%
     }
+   
 
 
 }
