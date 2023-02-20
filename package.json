@@ -1,8 +1,10 @@
 {
   "name": "portal",
   "version": "0.1.0",
-  "homepage":"https://jpsngh.github.io/Jpportal",
-  "private": true,
+
+  "homepage": "https://jpsngh.github.io/Jobportal",
+  "private": false,
+
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",
     "@testing-library/jest-dom": "^5.16.5",
@@ -18,7 +20,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-   
+
     "start": "react-scripts start",
     "predeploy":"npm run build",
     "deploy": "gh-pages -d build",
