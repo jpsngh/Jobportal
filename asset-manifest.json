@@ -1,14 +1,14 @@
 {
-  "main.css": "/Jobportal/static/css/main.4ab9bfc1.chunk.css",
-  "main.js": "/Jobportal/static/js/main.3ab6448c.chunk.js",
-  "main.js.map": "/Jobportal/static/js/main.3ab6448c.chunk.js.map",
+  "main.css": "/Jobportal/static/css/main.5d0f2bb3.chunk.css",
+  "main.js": "/Jobportal/static/js/main.8c5c2e9a.chunk.js",
+  "main.js.map": "/Jobportal/static/js/main.8c5c2e9a.chunk.js.map",
   "static/js/1.61bb5379.chunk.js": "/Jobportal/static/js/1.61bb5379.chunk.js",
   "static/js/1.61bb5379.chunk.js.map": "/Jobportal/static/js/1.61bb5379.chunk.js.map",
   "runtime~main.js": "/Jobportal/static/js/runtime~main.86d40756.js",
   "runtime~main.js.map": "/Jobportal/static/js/runtime~main.86d40756.js.map",
   "static/media/profile.jpg": "/Jobportal/static/media/profile.17c378ec.jpg",
-  "static/css/main.4ab9bfc1.chunk.css.map": "/Jobportal/static/css/main.4ab9bfc1.chunk.css.map",
+  "static/css/main.5d0f2bb3.chunk.css.map": "/Jobportal/static/css/main.5d0f2bb3.chunk.css.map",
   "index.html": "/Jobportal/index.html",
-  "precache-manifest.574d7ff82a021611a2a6a97cebddc12f.js": "/Jobportal/precache-manifest.574d7ff82a021611a2a6a97cebddc12f.js",
+  "precache-manifest.cf624c8a35499999a8afed5471810c4b.js": "/Jobportal/precache-manifest.cf624c8a35499999a8afed5471810c4b.js",
   "service-worker.js": "/Jobportal/service-worker.js"
 }
